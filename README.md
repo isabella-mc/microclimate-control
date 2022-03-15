@@ -33,8 +33,12 @@ Se agregan dos funcionalidades al proyecto inicial con Arduino.
 
 Primera funcionalidad:
   **MPLABX-Func1** código en MP LAB X con el compilador pic-as
+  
+  
   **luminosidad-as** archivo para implementar el código de la primera funcionalidad
 
 Segunda funcionalidad:
   **MPLABX-Func2** código en MP LAB X con el compilador XC8 
+  
+  
   **Timer0-COSECHA** archivo para implementar el código de la segunda funcionalidad
