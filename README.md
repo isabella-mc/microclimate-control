@@ -45,4 +45,6 @@ Segunda funcionalidad:
   **MPLABX-Func2** código en MP LAB X con el compilador XC8 
   
   
-  **Timer0-COSECHA** archivo para implementar el código de la segunda funcionalidad
+  **Timer0** archivo para implementar el código de la segunda funcionalidad
+  
+  La implementación completa con los tres microcontroladores está en el archivo de Proteus **microclimate-control**
